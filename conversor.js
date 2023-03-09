@@ -12,7 +12,7 @@ function bin_to_decimal(bin) {
 }
 
 function decimal_to_bin(decimal) {
-    
+    // pega cada peso, verifica se      
 }
 
 
